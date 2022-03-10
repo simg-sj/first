@@ -7,7 +7,7 @@ const id = document.querySelector('#id'),
       name_ =document.querySelector('#name'),
       password = document.querySelector("#password"),
       passwordConfirm = document.querySelector("#password-confirm"),
-      loginBtn = document.querySelector("#loginButton");
+      loginBtn = document.querySelector("#button");
 
 
 loginBtn.addEventListener('click',register);
